@@ -35,7 +35,7 @@ The system consists of two main components:
 
 - Run the Python script (`hand_gesture_control.py`) on your computer.
 - Make appropriate hand gestures in front of the camera to control the Arduino device.
-- Refer to the Arduino code (`hand_gesture_control.ino`) for pin mappings and motor control logic.
+- Refer to the Arduino code (`bluetoothCar.ino`) for pin mappings and motor control logic.
 - Press 'Esc' to exit the Python script.
 
 ## Contributing 🤝
@@ -45,3 +45,6 @@ Contributions are welcome! Feel free to submit issues, feature requests, or pull
 ## License 📄
 
 This project is licensed under the [MIT License](LICENSE).
+## GitHub Repository 🌐
+
+Find the project on [GitHub](https://github.com/GovardhanaRekam/CVControlRobot).
